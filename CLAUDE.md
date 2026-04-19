@@ -38,6 +38,11 @@ VITE_SUPABASE_ANON_KEY=...
 - クライアントは `src/lib/supabase.js` で一元管理
 - 認証APIは `supabase.auth.signUp` / `signInWithPassword` / `signOut` を使用
 
+## デプロイ情報
+
+- 本番URL：https://realestate-app-nine-swart.vercel.app
+- Supabaseプロジェクト名：realestate-app
+
 ## Git運用ルール
 
 **コードを変更するたびに必ずコミットしてGitHubにプッシュする。**
